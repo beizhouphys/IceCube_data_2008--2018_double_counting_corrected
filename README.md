@@ -1,4 +1,4 @@
-# IceCube_data_2008--2018_double_counting_removed
+# IceCube data (2008--2018) double counting events removed
 
 This page is to provide the IceCube neutrino dataset after correcting a problem in the 10 years of IceCube data (2008--2018).
 
