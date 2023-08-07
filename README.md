@@ -5,7 +5,8 @@ This page is to provide the IceCube neutrino dataset after correcting a problem 
 In https://arxiv.org/pdf/2110.02974.pdf, we found 19 dimuon candidates from the 10 years of IceCube data, but later IceCube collaboration found that those are double counted events from their misreconstruction error.
 So, that's to say, **in the dataset, 19*2=38 events are double counted, and they should be corrected.**
 
-In https://arxiv.org/pdf/2210.03088.pdf, we gave the details of how to combine the data in the last paragraph of Sec. IIA.
+In https://arxiv.org/pdf/2210.03088.pdf, we gave the details of how to combine the data in the last paragraph of Sec. IIA:
+
 _We also process the 19 × 2 double-counted tracks in the dataset found in Ref. [59] (listed in its table III). These events arise from an internal reconstruction error that identifies some single muons crossing the dust layer as two separate muons arriving at the same time and closely in direction [59]. This would affect neutrino-source searches, especially transients, as finding two associated events versus one would be quite different. Thus, we combine the 19 misreconstructed pairs into 19 single events by averaging the directions and summing up the reconstructed energies._
 
 
