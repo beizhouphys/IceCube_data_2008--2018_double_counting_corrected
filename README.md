@@ -4,7 +4,7 @@ This page is to provide the IceCube neutrino dataset after correcting the double
 
 If you have any questions, please contact beizhousuper@gmail.com .
 
-In https://arxiv.org/pdf/2110.02974.pdf, we found 19 dimuon candidates from the 10 years of IceCube data (table III in appendix A on page 15), but later IceCube collaboration found that those are double counted events from their misreconstruction error.
+In https://arxiv.org/pdf/2110.02974.pdf, we found 19 dimuon candidates from the 10 years of IceCube data (table III in appendix A on page 15), but later IceCube collaboration found that those are double counted events due to their misreconstruction error.
 So, that's to say, **in the dataset, 19*2=38 events are double counted, and they should be corrected.**
 
 In https://arxiv.org/pdf/2210.03088.pdf, we gave the details of how to correct the data in the last paragraph of Sec. IIA:  
